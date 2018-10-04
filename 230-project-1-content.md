@@ -1,7 +1,7 @@
 # The Horrors of Nazarick
 
 #### In the world of Yggdrasil, there exists a tomb said to contain unknown relics that can fulfill one's wildest wishes. The only caviat is, there's no way out once one enters. Our protagonist in their greed-fueled charge into the tomb, drunk on the idea of becoming a living god.
-<img src="/media/concept1.jpg" alt="Basic concept art" width="200px"/>
+<img src="/concept1.jpg" alt="Basic concept art" width="200px"/>
 
 
 ---
